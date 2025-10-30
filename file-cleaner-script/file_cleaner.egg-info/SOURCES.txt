@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+cleaner/__init__.py
+cleaner/cleaner.py
+file_cleaner.egg-info/PKG-INFO
+file_cleaner.egg-info/SOURCES.txt
+file_cleaner.egg-info/dependency_links.txt
+file_cleaner.egg-info/entry_points.txt
+file_cleaner.egg-info/top_level.txt

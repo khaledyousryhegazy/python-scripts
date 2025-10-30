@@ -1,0 +1,2 @@
+[console_scripts]
+srvcheck = checker.checker:main

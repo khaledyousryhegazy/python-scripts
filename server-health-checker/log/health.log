@@ -1,0 +1,8 @@
+2025-10-30 14:12:25,282 - [DEBUG] - Start checking server availability
+2025-10-30 14:12:25,762 - [INFO] - Server Checked --> 200 OK in 479ms
+2025-10-30 14:12:26,764 - [DEBUG] - Start checking server components
+2025-10-30 14:12:26,764 - [INFO] - CPU: 6.3%, RAM: 37.8%, Disk: 15.5%
+2025-10-30 14:12:28,764 - [DEBUG] - Start checking server availability
+2025-10-30 14:12:29,196 - [INFO] - Server Checked --> 200 OK in 431ms
+2025-10-30 14:12:30,198 - [DEBUG] - Start checking server components
+2025-10-30 14:12:30,198 - [INFO] - CPU: 4.8%, RAM: 37.7%, Disk: 15.5%
