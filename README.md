@@ -13,13 +13,3 @@
 - server-health-checker/ → Checks server availability and local system resources (CPU, RAM, Disk).
 
 Each script includes logging, configurable options, and terminal output for easy monitoring and automation.
-
----
-
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone the repository
-
-```bash
-pip install git+https://github.com/khaledyousryhegazy/script-name.git
-```

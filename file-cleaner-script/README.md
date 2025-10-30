@@ -21,14 +21,6 @@ It logs each action both to the terminal and a file — making it great for auto
 
 ---
 
-## ⚙️ Installation
-
-```bash
-pip install git+https://github.com/khaledyousryhegazy/file-cleaner.git
-```
-
----
-
 ## ▶️ How to run
 
 ```bash

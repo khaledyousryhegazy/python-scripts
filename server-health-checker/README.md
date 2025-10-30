@@ -23,14 +23,6 @@ It logs all actions to both the terminal and a file — making it great for auto
 
 ---
 
-## ⚙️ Installation
-
-```bash
-pip install git+https://github.com/khaledyousryhegazy/server-health-checker.git
-```
-
----
-
 ## ▶️ How to run
 
 ```bash
