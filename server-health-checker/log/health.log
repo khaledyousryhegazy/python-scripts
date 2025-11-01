@@ -1,8 +1,14 @@
-2025-10-30 14:12:25,282 - [DEBUG] - Start checking server availability
-2025-10-30 14:12:25,762 - [INFO] - Server Checked --> 200 OK in 479ms
-2025-10-30 14:12:26,764 - [DEBUG] - Start checking server components
-2025-10-30 14:12:26,764 - [INFO] - CPU: 6.3%, RAM: 37.8%, Disk: 15.5%
-2025-10-30 14:12:28,764 - [DEBUG] - Start checking server availability
-2025-10-30 14:12:29,196 - [INFO] - Server Checked --> 200 OK in 431ms
-2025-10-30 14:12:30,198 - [DEBUG] - Start checking server components
-2025-10-30 14:12:30,198 - [INFO] - CPU: 4.8%, RAM: 37.7%, Disk: 15.5%
+2025-10-31 10:54:53,534 - [DEBUG] - Start checking server availability
+2025-10-31 10:54:53,960 - [INFO] - Server Checked --> 200 OK in 425ms
+2025-10-31 10:54:54,962 - [DEBUG] - Start checking server components
+2025-10-31 10:54:54,962 - [INFO] - CPU: 13.0%, RAM: 25.2%, Disk: 15.5%
+2025-10-31 10:54:55,962 - [DEBUG] - Start checking server availability
+2025-10-31 10:54:56,385 - [INFO] - Server Checked --> 200 OK in 423ms
+2025-10-31 10:54:57,387 - [DEBUG] - Start checking server components
+2025-10-31 10:54:57,387 - [INFO] - CPU: 11.4%, RAM: 25.1%, Disk: 15.5%
+2025-10-31 10:54:58,387 - [DEBUG] - Start checking server availability
+2025-10-31 10:54:58,821 - [INFO] - Server Checked --> 200 OK in 433ms
+2025-10-31 10:54:59,823 - [DEBUG] - Start checking server components
+2025-10-31 10:54:59,823 - [INFO] - CPU: 27.6%, RAM: 25.2%, Disk: 15.5%
+2025-10-31 10:55:00,823 - [DEBUG] - Start checking server availability
+2025-10-31 10:55:01,260 - [INFO] - Server Checked --> 200 OK in 437ms

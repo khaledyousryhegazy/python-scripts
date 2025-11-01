@@ -4,6 +4,7 @@ import psutil
 import requests
 import time
 import os
+from logging.handlers import RotatingFileHandler
 
 """
 --- Server Health Check Logic:
@@ -21,7 +22,7 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 os.makedirs("log", exist_ok=True)
-file_handler = logging.FileHandler("log/health.log")
+file_handler = RotatingFileHandler("log/health.log", maxBytes=1024, backupCount=3)
 file_handler.setLevel(logging.DEBUG)
 
 formatter = logging.Formatter("%(asctime)s - [%(levelname)s] - %(message)s")
@@ -51,15 +52,15 @@ def check_srv_url(server_url: str):
 
     except requests.exceptions.ConnectionError:
         srv_status = "CONNECTION_ERROR"
-        logger.info(srv_status)
+        logger.error(srv_status)
         fb_color = "red"
     except requests.exceptions.Timeout:
         srv_status = "TIMEOUT"
-        logger.info(srv_status)
+        logger.error(srv_status)
         fb_color = "red"
     except requests.exceptions.RequestException:
         srv_status = "REQUEST_ERROR"
-        logger.info(srv_status)
+        logger.error(srv_status)
         fb_color = "red"
 
     click.secho(f"Server Checked --> {srv_status}", fg=fb_color)
