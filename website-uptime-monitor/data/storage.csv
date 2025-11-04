@@ -1,0 +1,6 @@
+timestamp,url,status_code,is_up,response_time_ms,error
+2025-11-04T16:10:11.930432,https://www.google.com,200,True,2337.0,
+2025-11-04T16:10:12.578123,https://www.github.com,200,True,647.32,
+2025-11-04T16:10:12.759949,https://www.nonexistentwebsite12345.com,,False,,Connection Error
+2025-11-04T16:10:13.612848,https://httpstat.us/404,,False,,Connection Error
+2025-11-04T16:10:14.258222,https://httpstat.us/500,,False,,Connection Error

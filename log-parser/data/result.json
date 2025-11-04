@@ -1,15 +1,15 @@
 {
-  "file_name": "test.log",
-  "total_lines": 16,
-  "summary": {
-    "INFO": 5,
-    "WARNING": 3,
-    "ERROR": 8,
-    "CRITICAL": 0,
-    "DEBUG": 0
-  },
-  "first_log_time": "2025-11-01T10:00:12",
-  "last_log_time": "2025-11-01T10:45:00",
-  "most_common_level": "ERROR",
-  "exported_at": "2025-11-02T20:02:49.511078"
+    "file_name": "server.log",
+    "total_lines": 3,
+    "summary": {
+        "INFO": 2,
+        "WARNING": 0,
+        "ERROR": 1,
+        "CRITICAL": 0,
+        "DEBUG": 0
+    },
+    "first_log_time": "2025-11-04T10:00:00",
+    "last_log_time": "2025-11-04T10:10:00",
+    "most_common_level": "INFO",
+    "exported_at": "2025-11-04T16:07:28.036611"
 }

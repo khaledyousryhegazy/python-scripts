@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2025-11-04T16:10:11.930432",
+        "url": "https://www.google.com",
+        "status_code": 200,
+        "is_up": true,
+        "response_time_ms": 2337.0,
+        "error": null
+    },
+    {
+        "timestamp": "2025-11-04T16:10:12.578123",
+        "url": "https://www.github.com",
+        "status_code": 200,
+        "is_up": true,
+        "response_time_ms": 647.32,
+        "error": null
+    },
+    {
+        "timestamp": "2025-11-04T16:10:12.759949",
+        "url": "https://www.nonexistentwebsite12345.com",
+        "status_code": null,
+        "is_up": false,
+        "response_time_ms": null,
+        "error": "Connection Error"
+    },
+    {
+        "timestamp": "2025-11-04T16:10:13.612848",
+        "url": "https://httpstat.us/404",
+        "status_code": null,
+        "is_up": false,
+        "response_time_ms": null,
+        "error": "Connection Error"
+    },
+    {
+        "timestamp": "2025-11-04T16:10:14.258222",
+        "url": "https://httpstat.us/500",
+        "status_code": null,
+        "is_up": false,
+        "response_time_ms": null,
+        "error": "Connection Error"
+    }
+]
